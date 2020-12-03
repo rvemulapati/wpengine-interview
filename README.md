@@ -1,4 +1,4 @@
-#### Pre-instructions to send script to interviewer
+#### Pre-instructions 
 
 - Clone the GitHub repository, generate a tarball file
     - On windows, right click and zip it.
