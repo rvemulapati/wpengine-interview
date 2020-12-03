@@ -4,9 +4,9 @@
     - On windows, right click and zip it.
     - On Linux,
       ```
-      git clone https://github.com/saiteja313/wpengine-interview.git
+      git clone https://github.com/rvemulapati/wpengine-interview.git
       cd wpengine-interview
-      tar --create --verbose --gzip --file rohini_wpengine_interview.tar.gz .
+      tar --create --verbose --gzip --file wpengine.tar.gz .
       ```
 
 #### Instructions to execute the script for wpengine-interview
