@@ -1,12 +1,11 @@
 #### Pre-instructions 
 
-- Clone the GitHub repository, generate a tarball file
-    - On windows, right click and zip it.
+- Clone the GitHub repository
+    - On windows, right click and unzip the folder.
     - On Linux,
       ```
       git clone https://github.com/rvemulapati/wpengine-interview.git
       cd wpengine-interview
-      tar --create --verbose --gzip --file wpengine.tar.gz .
       ```
 
 #### Instructions to execute the script for wpengine-interview
