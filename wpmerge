@@ -1,0 +1,8 @@
+#!/bin/bash
+
+input_filename=${1}
+output_filename=${2}
+
+pip install -r requirements.txt
+
+python parse_wpengine.py ${input_filename} ${output_filename}
